@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraraltunkaynak" alt="ebraraltunkaynak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrardev" alt="ebrar" /> </p>
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Ebrar.;I'm+a+React+Developer;I+love+programming+React+Nodejs+JavaScript+projects.">
   </a>
 
@@ -10,8 +10,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ebraraltunkaynak&show_icons=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ebraraltunkaynak&&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ebrardev&show_icons=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ebrardev&&theme=dracula">
 </p>
 
 
