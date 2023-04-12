@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrardev&show_icons=true&locale=en" alt="ebrardev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrardev&" alt="ebrardev" /></p>
+#### Visitors (since 14 December 2021)
+![:Ebrar](https://count.getloli.com/get/@:ebrardev?theme=rule34)
