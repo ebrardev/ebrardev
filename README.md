@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ebrar</h1>
 <h3 align="center">A junior Frontend developer and go lover</h3>
+<img align="right"  width="30%" alt="GIF" src="https://media.tenor.com/cm4CwsIkauIAAAAC/hasbulla-drinking.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrardev&label=Profile%20views&color=0e75b6&style=flat" alt="ebrardev" /> </p>
+
 
 - 🔭 I’m currently working on **Nextjs**
 
@@ -46,5 +47,6 @@
 ![:ebrar](https://count.getloli.com/get/@:ebrardev?theme=rule34)
 
 
-<img src="https://media.tenor.com/cm4CwsIkauIAAAAC/hasbulla-drinking.gif" width="480" height="270"
+
+
 
