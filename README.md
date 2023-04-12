@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/ebrarmeadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrarmeadev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ebrardev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebrardev" height="30" width="40" /></a>
 <a href="https://medium.com/@ebraraltunkynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ebraraltunkynk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@meadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meadev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@meadev2247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
