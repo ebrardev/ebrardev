@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ebrar</h1>
-<h3 align="center">A junior Frontend developer and go lover</h3>
+<h3 align="center">A  Frontend developer and go lover</h3>
 <img align="right"  width="30%" alt="GIF" src="https://media.tenor.com/cm4CwsIkauIAAAAC/hasbulla-drinking.gif" />
 
 
