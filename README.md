@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **altunkaynakebrar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1urJhHsO9NozcY9o_T87UUBlftxCZ7-jy/view?usp=sharing]([https://drive.google.com/file/d/1urJhHsO9NozcY9o_T87UUBlftxCZ7-jy/view?usp=sharing](https://drive.google.com/file/d/1bHnVdrp-KhWv_ik4Ivjx9rREl81Heu5E/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bHnVdrp-KhWv_ik4Ivjx9rREl81Heu5E/view?usp=sharing][https://drive.google.com/file/d/1urJhHsO9NozcY9o_T87UUBlftxCZ7-jy/view?usp=sharing](https://drive.google.com/file/d/1bHnVdrp-KhWv_ik4Ivjx9rREl81Heu5E/view?usp=sharing)
 
 - ⚡ Fun fact **I'm good at music and movies.**
 
