@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Ebrar</h1>
-<h3 align="center">A  Frontend developer and go lover</h3>
+<h3 align="center">A  Software Engineer</h3>
 <img align="right"  width="30%" alt="GIF" src="https://media.tenor.com/cm4CwsIkauIAAAAC/hasbulla-drinking.gif" />
 
 
 
 - 🔭 I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Nextjs**
 
 - 🤝 I’m looking for help with **Javascript**
 
-- 👨‍💻 All of my projects are available at [www.ebrardev.com](www.ebrardev.com)
+- 👨‍💻 All of my projects are available at [www.ebrarcode.dev](www.ebrarcode.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@ebraraltunkynk](https://medium.com/@ebraraltunkynk)
 
