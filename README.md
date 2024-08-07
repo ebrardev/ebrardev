@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ebrar</h1>
 <h3 align="center">A  Software Engineer</h3>
-<img align="right"  width="30%" alt="GIF" src="https://media.tenor.com/cm4CwsIkauIAAAAC/hasbulla-drinking.gif" />
 
+
+<img align="right"  width="30%" alt="Screenshot 2024-08-07 at 21 07 09" src="https://github.com/user-attachments/assets/4692397d-65ef-4e13-9509-04c6d0c437ec">
 
 
 - 🔭 I’m currently working on **Nextjs**
